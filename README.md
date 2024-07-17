@@ -10,6 +10,7 @@ From https://devops.com/observability-costs-are-too-damn-high/
 
 * Deduplication - remove duplicated logs and emit metrics for each occurrence
 * Generate metrics from logs
+* Identify debug logs
 
 ## Traces
 
