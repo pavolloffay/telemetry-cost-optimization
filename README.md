@@ -4,7 +4,9 @@ This repository contains techniques for reducing cost of observability data (met
 
 > In fact, according to Charity Majors of Honeycomb, the total cost of observability at an organization today is equivalent to up to 30% of total infrastructure spending. That’s a truly astounding figure, if you think about it. For every dollar spent on the infrastructure that powers applications, 30 cents ends up paying just for the tools and services needed to make sure the apps running on that infrastructure are doing what they’re supposed to.
 
-From https://devops.com/observability-costs-are-too-damn-high/
+From https://devops.com/observability-costs-are-too-damn-high/ and https://youtu.be/AjcN0LhzyFA?si=Zf0H8347kibNF6XS&t=184
+
+
 
 ## Logs
 
