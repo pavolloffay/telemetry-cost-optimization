@@ -37,6 +37,7 @@ https://github.com/observ-vol-mgt/observ-vol-mgt
 
 * Remove unnecessary attributes (e.g. UID attributes `k8s.deployment.uid`, `k8s.replicaset.uid` etc.)
 * Lower data retention
+* Collect only actionable data
 * Turn off monitoring for not important workloads
 * Use cheap, easy to operate in-cluster stores for majority of the data and export only the most important data to expensive SaaS solutions
 
