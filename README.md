@@ -27,7 +27,7 @@ From https://devops.com/observability-costs-are-too-damn-high/ and https://youtu
   * Reduces storage requirements
   * Improves query performance
   * Maintains older data at a usable resolution
-* Don't collect metrics that are never queried
+* Don't collect metrics that are never queried - Prometheus/OpenSearch query log
 
 ### Dynamically enable metrics collection
 
