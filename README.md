@@ -6,7 +6,9 @@ This repository contains techniques for reducing cost of observability data (met
 
 From https://devops.com/observability-costs-are-too-damn-high/ and https://youtu.be/AjcN0LhzyFA?si=Zf0H8347kibNF6XS&t=184
 
+Another source https://youtu.be/AjcN0LhzyFA?si=Zf0H8347kibNF6XS&t=184 
 
+>  Between 7% and 10 % of cloud budget
 
 ## Logs
 
